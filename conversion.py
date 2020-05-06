@@ -1,6 +1,7 @@
 #conversão
 
 #conversões ara string
+
 bool_string = str(True)
 print(bool_string)
 bool_string2 = str(False)
@@ -37,6 +38,7 @@ int_float = float(15)
 print(int_float)
 
 #conversões para bool
+
 string_bool = bool("Python")
 print(string_bool)
 string_bool2 = bool("True")
